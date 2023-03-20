@@ -1,0 +1,36 @@
+body{
+			background-color:  #E1D9D1;
+		}
+		.round{
+			border-radius: 10px;
+			background-color:  #FFFFFF;
+			width: 650px;
+			height: 200px;
+			padding: 20px;
+			text-align: left;
+			margin-top: 70px;
+			margin-left: 25%;
+			
+		}
+		h1{
+			padding: 10px;
+		}
+		p{
+		  padding-left: 10px;
+		  font-size: 20px;
+		}
+		a{
+			padding-left: 10px;
+			font-size: 20px;
+			text-decoration: none;
+			padding-bottom: 10px;
+		}
+		a:visited{
+			color:  #00FF00;
+		}
+		a:hover{
+			color: #FF0000;
+		}
+		a:active{
+			color: #0000FF;
+		}
